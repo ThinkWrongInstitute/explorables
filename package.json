@@ -1,0 +1,19 @@
+{
+  "name": "explorables",
+  "version": "1.0.0",
+  "description": "The [GSAPP Skill Tree](skilltree.gsapp.org) is a pedagogy platform at Columbia University GSAPP for explaining and teaching the unknown unknowns of architectural software tools.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThinkWrongInstitute/explorables.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ThinkWrongInstitute/explorables/issues"
+  },
+  "homepage": "https://github.com/ThinkWrongInstitute/explorables#readme"
+}
